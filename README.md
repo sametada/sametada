@@ -4,4 +4,4 @@
 
 ### En Çok Kullandığım Diller
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sametada&layout=compact&theme=radical)
